@@ -1,0 +1,402 @@
+0: a person who abates a nuisance
+1: a person who abjures
+2: a person who is loathsome or disgusting
+3: a person who refrains from drinking intoxicating beverages
+4: a person with a record of successes
+5: a person with whom you are acquainted
+6: a person who acquires something (usually permanently)
+7: a person who is a participating member of an organization
+8: a person who acts and gets things done
+9: a person who studies and settles conflicts and disputes
+10: a person who admires; someone who esteems or respects or approves
+11: someone (such as a child) who has been adopted
+12: a fully developed person from maturity onward
+13: a person who enjoys taking risks
+14: someone who offers opposition
+15: someone who receives advice
+16: a person who pleads for a cause or propounds an idea
+17: a person who makes an affidavit
+18: a native or inhabitant of Africa
+19: someone who is doubtful or noncommittal about something
+20: someone who pursues a study or sport as a pastime
+21: any member of the peoples living in North or South America before the Europeans arrived
+22: a person who lived in ancient times
+23: a person who is unusual
+24: a person who is opposed to the United States and its policies
+25: a person who is opposed (to an action or policy or practice etc.)
+26: a person who requests or seeks something such as assistance or employment or admission
+27: a person who is appointed to a job or position
+28: a person who is fully aware of something and understands it
+29: a person who seizes or arrests (especially a person who seizes or arrests in the name of justice)
+30: (astrology) a person who is born while the sun is in Aquarius
+31: a person who archaizes
+32: (astrology) a person who is born while the sun is in Aries
+33: a person who through conceit makes pretentious claims to rights or advantages that he or she is not entitled to or to qualities that he or she does not possess
+34: a person (or property) that is assessed
+35: a person suffering from asthma
+36: (usually plural) persons who exercise (administrative) control over others
+37: a person who has taught himself
+38: a member of the baby boom generation in the 1950s
+39: a person born in the generation following the baby boom when the birth rate fell dramatically
+40: any person who is not on your side
+41: a person who does harm to others
+42: a person whose head is bald
+43: a person who refuses to comply
+44: a person who takes a bath
+45: a person who diverts suspicion from someone (especially a woman who accompanies a male homosexual in order to conceal his homosexuality)
+46: a person with whom you share a bed
+47: a person who has suffered the death of someone they loved
+48: the person who is most outstanding or excellent; someone who tops all others
+49: a baby born; an offspring
+50: someone who bites
+51: a person with dark skin who comes from Africa (or whose ancestors came from Africa)
+52: a person who keeps and updates a blog
+53: a person with fair skin and hair
+54: a person dressed all in blue (as a soldier or sailor)
+55: someone who does special exercises to develop a brawny musculature
+56: a person who plants bombs
+57: a person with dark (brown) hair
+58: someone who fights bulls
+59: a person (or thing) that breaks up or overpowers something
+60: (astrology) a person who is born while the sun is in Cancer
+61: someone who is considered for something (for an office or prize or honor etc.)
+62: a person who invests capital in a business (especially a large business)
+63: (astrology) a person who is born while the sun is in Capricorn
+64: a person who captures and holds people or animals
+65: a person requiring professional services
+66: a person responsible for receiving payments for goods and services (as in a shop or restaurant)
+67: a person who is celebrating
+68: someone who censures or condemns
+69: a changeable or inconstant person
+70: a person who changes something
+71: a person who charms others (usually by personal attractiveness)
+72: an immature childish person
+73: (Yiddish) a person characterized by chutzpa
+74: a person who closes something
+75: a person with poor motor coordination
+76: a person who collects things
+77: a person unable to distinguish differences in hue
+78: someone who fights (or is fighting)
+79: a person who holds no title
+80: a person who communicates with others
+81: someone makes things complex
+82: a person with a compulsive disposition; someone who feels compelled to do certain things
+83: a person who uses computers for work or entertainment or communication or business
+84: a person devoted to the contemplative life
+85: a person who participates in competitions
+86: a person who has been converted to another religious or political belief
+87: someone who copies the words or behavior of another
+88: a person who counts things
+89: someone who attempts to prevent terrorism
+90: a person who shows fear or timidity
+91: a person who crawls or creeps along the ground
+92: a person who grows or makes or invents things
+93: a human being; `wight' is an archaic term
+94: a person to whom money is owed by a debtor; someone to whom an obligation exists
+95: someone who is unable to walk normally because of an injury or disability to the legs or back
+96: a person who participates in a social gathering arranged for dancing (as a ball)
+97: someone who is no longer alive
+98: a person with a severe auditory impairment
+99: a person who lowers the quality or character or value (as by adding cheaper metal to coins)
+100: a person who owes a creditor; someone who has the obligation of paying a debt
+101: a person who defecates
+102: a person who delays; to put off until later or cause to be late
+103: a person who gives up or transfers money or goods
+104: a person who makes demands
+105: a person who diets
+106: a person who (or that which) differentiates
+107: a person who removes tangles; someone who takes something out of a tangled state
+108: a person who disputes; who is good at or enjoys controversy
+109: a person who dissents from some established policy
+110: a person who separates something into parts or groups
+111: a person (not necessarily a spouse) with whom you cohabit and share a long-term sexual relationship
+112: someone who closely resembles a famous person (especially an actor)
+113: a person who dresses in a particular way
+114: a person who dribbles
+115: a person who takes drugs
+116: a person who has dyslexia
+117: a person with a thin body
+118: one who brings about a result or event; one who accomplishes a purpose
+119: a person who lived during the reign of Elizabeth I
+120: a person subject to strong states of emotion
+121: a heavy person with a soft and rounded body
+122: a person who uses scientific knowledge to solve practical problems
+123: a person who delights in having or using or experiencing something
+124: a person who enrolls in (or is enrolled in) a class or course of study
+125: a person who tries to please or amuse
+126: a person who is a member of an ethnic group
+127: a person who enjoys testing innovative ideas
+128: a person with special knowledge or ability who performs skillfully
+129: someone who travels into little known regions (especially for some scientific purpose)
+130: (psychology) a person concerned more with practical realities than with inner thoughts and feelings
+131: a part of a person that is used to refer to a person
+132: a person who subscribes to a variety of fads
+133: a person who falls
+134: a person who fastens or makes fast
+135: a person who belongs to the sex that can have babies
+136: a person who holds assets in trust for a beneficiary
+137: one who is first-rate
+138: a person who accepts the leadership of another
+139: someone acting freely or even irresponsibly
+140: a person you know well and regard with affection and trust
+141: someone who flees from an uncongenial situation
+142: a person who gains weight
+143: a person who gains (gains an advantage or gains profits)
+144: a person who wagers money on the outcome of games or sporting events
+145: someone who controls access to something
+146: a person who gathers
+147: (astrology) a person who is born while the sun is in Gemini
+148: a person who is not a member of one's own religion; used in this sense by Mormons and Hindus
+149: any person who is on your side
+150: a person who is good to other people
+151: a person who grants or gives something
+152: a person who greets
+153: a person who grins
+154: a person who groans
+155: a person who grunts
+156: a person who guesses
+157: a person who has some condition that markedly restricts their ability to function physically or mentally or socially
+158: a person who hates
+159: a heterosexual person; someone having a sexual orientation to persons of the opposite sex
+160: someone who practices homosexuality; having a sexual attraction to persons of the same sex
+161: a tiny fully formed individual that (according to the discredited theory of preformation) is supposed to be present in the sperm cell
+162: someone (or something) on which expectations are centered
+163: a person who hopes
+164: a person who crouches
+165: a person who hugs
+166: a person who is immune to a particular infection
+167: a person who pursues independent thought or action
+168: a person who inhabits a particular place
+169: a person who lacks knowledge of evil
+170: a person whose interests are protected by an insurance policy; a person who contracts for an insurance policy that indemnifies him against loss of property or life or health etc.
+171: a person who uses the mind creatively
+172: someone who uses art to represent something
+173: (psychology) a person who tends to shrink from social contacts and to become preoccupied with their own thoughts
+174: a member of an Indo-European people widely scattered throughout the northwest of the Indian subcontinent and consisting of Muslims and Hindus and Sikhs
+175: a person belonging to the worldwide group claiming descent from Jacob (or converted to it) and connected by cultural or religious ties
+176: a person who is as brilliant and precious as a piece of jewelry
+177: a person who jumps
+178: the younger of two persons
+179: a young person, not fully developed
+180: someone who causes the death of a person or animal
+181: a person with unusual sexual tastes
+182: a person in a kneeling position
+183: a person who knocks (as seeking to gain admittance)
+184: a person who knows or apprehends
+185: a person of greater than average size
+186: a person who is a member of those peoples whose languages derived from Latin
+187: a person who is laughing or who laughs easily
+188: a person who rules or guides or inspires others
+189: someone (especially a child) who learns (as from a teacher) or takes up knowledge or beliefs
+190: a person who uses the left hand with greater skill than the right
+191: (astrology) a person who is born while the sun is in Leo
+192: (astrology) a person who is born while the sun is in Libra
+193: a living person
+194: someone who is a frequent target of negative reactions and serves to distract attention from another
+195: a person who speaks more than one language
+196: a person who can read and write
+197: a person who has a special life style
+198: a person with a strong desire for something
+199: a person who is expected to perform a particular task but who is out of control and dangerous
+200: a person who you love, usually a member of your family
+201: a person who loves someone or is loved by someone
+202: an efficient person
+203: a person who mails something
+204: a person who is discontented or disgusted
+205: a person who belongs to the sex that cannot have babies
+206: the generic use of the word to refer to any human being
+207: a single individual
+208: a person who handles things manually
+209: a person who is married
+210: a person who practices masturbation
+211: a person who makes measurements
+212: a person with a well-developed muscular body
+213: a person of mixed racial ancestry (especially mixed European and Native American ancestry)
+214: someone who is neither a highbrow nor a lowbrow
+215: a person who claims or is alleged to perform miracles
+216: a person who hates marriage
+217: a person whose ancestors belonged to two or more races
+218: a contemporary person
+219: a person who receives or invests or pays out money
+220: a person who knows only one language
+221: a person who cares for the needs of others (especially in an overprotective or interfering way)
+222: person who is quiet or timid
+223: a person who mutilates or destroys or disfigures or cripples
+224: a person who gives a name or names
+225: a person with the same name as another
+226: a person who owes allegiance to that nation
+227: an indigenous person who was born in a particular place
+228: a person born in a particular place or country
+229: a person who is neglectful and gives little attention or respect to people or responsibilities
+230: a person who lives (or is located) near another
+231: one who does not side with any party in a war or dispute
+232: a person is not easily classified and not very interesting
+233: a person who is not a member
+234: a person who does not participate
+235: a person who is nonpartisan
+236: a person regarded as nonexistent and having no rights; a person whose existence is systematically ignored (especially for ideological or political reasons)
+237: a person who does not manifest devotion to a deity
+238: someone who does not live in a particular place
+239: a person who does not smoke tobacco
+240: a person who does nothing
+241: a naked person
+242: a person who treats something carefully
+243: a believer in occultism; someone versed in the occult arts
+244: a person disposed to take a favorable view of things
+245: someone or something who lacks support or care or supervision
+246: a person who refuses to face reality or recognize the truth (a reference to the popular notion that the ostrich hides from danger by burying its head in the sand)
+247: a person who ousts or supplants someone else
+248: a person belonging to no caste
+249: a person who spends time outdoors (e.g., hunting or fishing)
+250: a person who owns something
+251: someone who pampers or spoils by excessive indulgence
+252: a person who participates in (or is open to) sexual activities of many kinds
+253: a person who pardons or forgives or excuses a fault or offense
+254: a person who is a member of a partnership
+255: a person involved in legal proceedings
+256: a person who passes as a member of a different ethnic or racial group
+257: a person who is of equal standing with another in a group
+258: a person who becomes aware (of things or events) through the senses
+259: a person situated on a perch
+260: (formal) any non-European non-white person
+261: another word for person; a person not meriting identification
+262: a person who represents an abstract quality
+263: a person who perspires
+264: a wise person who is calm and rational; someone who lives a life of reason with equanimity
+265: a person who chooses or selects out
+266: (astrology) a person who is born while the sun is in Pisces
+267: a person who urinates
+268: a person who makes plans
+269: a person who pursues a number of different social and sexual partners simultaneously
+270: someone who behaves in a manner calculated to impress or mislead others
+271: someone who applies or scatters powder
+272: a person who goes before or announces the coming of another
+273: someone who keeps safe from harm or danger
+274: a person who belongs to an early stage of civilization
+275: the person immediately affected by or concerned with an action
+276: a person employed to establish and promote a favorable relationship with the public
+277: a person who pursues some plan or goal
+278: a person who is regarded as easygoing and agreeable
+279: an unspecified person
+280: a person who gives up too easily
+281: a person who has radical ideas or opinions
+282: a person who accepts the world as it literally is and deals with it accordingly
+283: a person who corrects or sets right
+284: someone who has red hair
+285: a person who is formally entered (along with others) in a register (and who obtains certain rights thereby)
+286: a person related by blood or marriage
+287: a person who reduces the intensity (e.g., of fears) and calms and pacifies
+288: a person who manifests devotion to a deity
+289: a person who repeats
+290: someone who saves something from danger or violence
+291: a person who rests
+292: a person who directs and restrains
+293: a person who returns after a lengthy absence
+294: a person who possesses great material wealth
+295: a person who uses the right hand more skillfully than the left
+296: a person who rises (especially from bed)
+297: a person who romps or frolics
+298: a brachycephalic person
+299: a person who rules or commands
+300: a person who rushes; someone in a hurry; someone who acts precipitously
+301: (astrology) a person who is born while the sun is in Sagittarius
+302: a person with advanced knowledge of one or more sciences
+303: (astrology) a person who is born while the sun is in Scorpio
+304: a person who scratches to relieve an itch
+305: a person of second-rate ability or value
+306: a person who seeds clouds
+307: someone making a search or inquiry
+308: someone who is or has been segregated
+309: a person considered as a unique individual
+310: a person who enjoys sensuality
+311: someone who indulges in excessive sentimentality
+312: any person regarded simply as an object of sexual gratification
+313: a person (especially a celebrity) who is well-known for their sexual attractiveness
+314: a person who wields power and influence
+315: a person skilled at making effective presentations
+316: someone who signs and is bound by a document
+317: a person lacking intelligence or common sense
+318: a person who is at least six feet tall
+319: a person who slips or slides because of loss of traction
+320: any member of the people of eastern Europe or Asian Russia who speak a Slavonic language
+321: a person who is owned by someone
+322: someone entirely dominated by some influence or person
+323: a sleepy person
+324: a person who slouches; someone with a drooping carriage
+325: a person of below average size
+326: a person who smashes something
+327: a person who smiles
+328: a person who sneezes
+329: a person who sniffs
+330: a person who breathes audibly through a congested nose
+331: a person who snuffs out candles
+332: a person who breathes noisily (as through a nose blocked by mucus)
+333: a person who takes part in social activities
+334: a person of a particular character or nature
+335: a person whose reactions to something serve as an indication of its acceptability
+336: an inscrutable person who keeps his thoughts and intentions secret
+337: a person who spits (ejects saliva or phlegm from the mouth)
+338: a person known for the way she (or he) behaves when teased or defeated or subjected to trying circumstances
+339: a person who sprawls
+340: a person who rejects (someone or something) with contempt
+341: a person with strabismus
+342: a person who stifles or smothers or suppresses
+343: a person whose body is marked by religious stigmata (such as marks resembling the wounds of the crucified Christ)
+344: a person who carries himself or herself with the head and shoulders habitually bent forward
+345: an individual that one is not acquainted with
+346: a person who struggles with difficulties or with great effort
+347: a person who is subjected to experimental or other observational procedures; someone who is an object of investigation
+348: a person serving no apparent function
+349: a person who yields or surrenders
+350: someone who tries to insure their personal survival or the survival of their group or nation
+351: one who outlives another
+352: someone who is under suspicion
+353: someone who assigns labels to the grammatical constituents of textual matter
+354: someone who appends or joins one thing to another
+355: a person who strikes a surface lightly and usually repeatedly
+356: (astrology) a person who is born while the sun is in Taurus
+357: a person who tempts others
+358: a person who serves a specified term
+359: a person who inspires fear or dread
+360: a person who makes a will
+361: a person who is unusually thin and scrawny
+362: one who is third-rate or distinctly inferior
+363: someone who projects something (especially by a rapid motion of the arm)
+364: a fierce or audacious person
+365: a person who belongs to a clan or tribe having a totem
+366: a person who causes or allows a part of the body to come in contact with someone or something
+367: someone who transfers or is transferred from one position to another
+368: a person whose sexual identification is entirely with the opposite sex
+369: someone who adopts the dress or manner or sexual role of the opposite sex
+370: a person who changes location
+371: one who tries
+372: one of two persons who swing ropes for jumpers to skip over in the game of jump rope
+373: any person who exercises power in a cruel way
+374: a person who unfastens or unwraps or opens
+375: a person who suffers misfortune
+376: a person who lacks technical training
+377: a person who for some reason is not wanted or welcome
+378: a person who makes use of a thing; someone who uses or employs something
+379: a person who disappears
+380: a person who is tricked or swindled
+381: a person who lived during the reign of Victoria
+382: (astrology) a person who is born while the sun is in Virgo
+383: a person given to fanciful speculations and enthusiasms with little regard for what is actually possible
+384: someone who has inferior vision
+385: a person who waits or awaits
+386: a person who awakes
+387: person who walks in without having an appointment
+388: a person who wants or needs something
+389: a person who is under the protection or in the custody of another
+390: someone engaged in or experienced in warfare
+391: a person who keeps a devotional vigil by a sick bed or by a dead body
+392: a person who is physically weak and ineffectual
+393: a person who is regarded as treacherous or sneaky
+394: a member of the Caucasoid race
+395: one who can't stay still (especially a child)
+396: a person who winks
+397: a person who refrains from granting
+398: (law) a person who testifies under oath in a court of law
+399: a person who works at a specific occupation
+400: a person absorbed by the concerns and interests and pleasures of the present world
+401: a person who yawns
