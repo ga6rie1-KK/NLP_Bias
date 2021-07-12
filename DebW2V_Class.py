@@ -24,8 +24,8 @@ if not os.path.isdir('figs'):
     os.mkdir('figs')
 
 print('preparing data')
-w2v_undebiased = gensim.models.KeyedVectors.load_word2vec_format('./GoogleNews-vectors-negative300.bin', binary=True)
-w2v_debiased = gensim.models.KeyedVectors.load_word2vec_format('./GoogleNews-vectors-negative300-hard-debiased.bin', binary=True)
+w2v_undebiased = gensim.models.KeyedVectors.load_word2vec_format('./data/GoogleNews-vectors-negative300.bin', binary=True)
+w2v_debiased = gensim.models.KeyedVectors.load_word2vec_format('./data/GoogleNews-vectors-negative300-hard-debiased.bin', binary=True)
 w2v_dim = 300
 
 def trans_text2vec(text, w2v_dim, w2v_model):
@@ -42,12 +42,12 @@ def trans_text2vec(text, w2v_dim, w2v_model):
     return x
 
 ##### defining dataset #####
-# dataset_name = 'AGNEWS'
-# train_set, test_set = AG_NEWS()
-# num_class = 4 # 1~4
-dataset_name = 'DBpedia'
-train_set, test_set = DBpedia()
-num_class = 14 # 1~14
+dataset_name = 'AGNEWS'
+train_set, test_set = AG_NEWS()
+num_class = 4 # 1~4
+# dataset_name = 'DBpedia'
+# train_set, test_set = DBpedia()
+# num_class = 14 # 1~14
 # dataset_name = 'YelpReviewPolarity'
 # train_set, test_set = YelpReviewPolarity()
 # num_class = 2 # 1,2
@@ -57,7 +57,7 @@ num_class = 14 # 1~14
 batch_size = 1000
 num_epoch = 100
 num_experiment = 100
-isModeling = False
+isModeling = True
 ######################
 
 X_udb_train = torch.zeros(len(train_set), w2v_dim)
