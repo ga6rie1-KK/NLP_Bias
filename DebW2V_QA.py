@@ -195,12 +195,12 @@ def train():
 
 
 if __name__ == '__main__':
-    task = 'undebiased'
+    task = 'debiased'
     isModeling = False
     saved = True
     pattern = 2
 
-    seeds = range(40, 50)
+    seeds = range(50, 100)
     if isModeling:
         seeds = range(1)
 
